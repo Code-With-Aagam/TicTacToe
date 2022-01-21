@@ -1,7 +1,6 @@
 # TicTacToe
 
 
-## TicTacToe GUI
 
 ![image](https://user-images.githubusercontent.com/91781985/150577907-c205ca99-7dee-433e-8b23-01500f0e9c02.png)
 
